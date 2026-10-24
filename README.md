@@ -28,12 +28,6 @@
 | **[image-processing-tool](https://github.com/yghdev/image-processing-tool)** | 变换 / 增强 / 边缘检测 / JPEG 压缩，核心算法全部 NumPy 手写 · [在线试试](https://image-processing-tool.streamlit.app) | Python · NumPy · Streamlit |
 | **[puzzle-game](https://github.com/yghdev/puzzle-game)** | 拼图小游戏，学习期间把 Java 基础过了一遍 | Java · Swing |
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/contrib-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/contrib-light.svg">
-  <img src="./assets/contrib-light.svg" alt="最近一年的 GitHub 贡献" width="100%">
-</picture>
-
 ## 手上常用的
 
 <p>
