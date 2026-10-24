@@ -10,11 +10,10 @@
   <a href="mailto:flechazoyang@gmail.com"><img alt="邮箱" src="https://img.shields.io/badge/flechazoyang%40gmail.com-6F7C90?style=flat-square&logo=gmail&logoColor=white"></a>
 </p>
 
-写能自己跑起来的东西。折腾自托管，用 AI 结对开发小工具，顺手把复杂的事讲清楚。
+写能自己跑起来的东西。折腾自托管，用 AI 开发小工具。
 
 ## 在做的事
 
-- **Toolbox** — 本地优先的 Android 工具箱，27 个高频小工具，除汇率外全部离线可用
 - **COC 战报工具** — 《部落冲突》部落战/联赛数据管理，Android 原生 + Web 双端，数据放在自己服务器
 - **自建博客** — Next.js 16 + SQLite，域名、部署、备份、监控全链路自己跑
 
